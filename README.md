@@ -24,7 +24,7 @@ A responsive and lightweight web application for managing daily tasks efficientl
 | CSS3       | Styling & responsiveness (Flexbox) |
 | JavaScript | App logic & DOM manipulation |
 | Git & GitHub | Version control & hosting |
-| GitHub Pages | Deployment (optional) |
+| GitHub Pages | Deployment |
 | VS Code    | Code editing           |
 
 ---
