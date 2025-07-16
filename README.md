@@ -31,9 +31,9 @@ A responsive and lightweight web application for managing daily tasks efficientl
 
 ## 📂 Project Structure
 
-├── index.html # HTML structure
-├── todoList.css # CSS styling rules
-├── todoList.js # JavaScript logic
+├── index.html # HTML structure <br>
+├── todoList.css # CSS styling rules <br>
+├── todoList.js # JavaScript logic <br>
 └── README.md # Project documentation
 
 ---
